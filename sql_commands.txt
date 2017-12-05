@@ -8,19 +8,29 @@ INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerN
 
 
 
+for you Aaron
+all the bullshit data
 
-
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
-INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(VAG, 100, 10.0, Mizzou P&T, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(P, 46, 50.0, Mizzou P&T, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(A, 30, 25.0, Mizzou P&T, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(Slim, 1, 15.0, Shady, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(Barrage, 4, 5.0, Brian Robinson, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerName, Reserved) values(zeta, 7, 20.0, zeta, False);
