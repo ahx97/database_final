@@ -5,3 +5,22 @@ INSERT INTO users (Name, PlateNumber, LotName, SpotNumber) values (varchar, varc
 use this when inserting into parkinglot
 
 INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+
+
+
+
+
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
