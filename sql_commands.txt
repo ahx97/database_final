@@ -1,7 +1,7 @@
 use this when inserting into users
 
-INSERT INTO users (Name, PlateNumber, LotName) values (varchar, varchar, varchar);
+INSERT INTO users (Name, PlateNumber, LotName, SpotNumber) values (varchar, varchar, varchar, int);
 
 use this when inserting into parkinglot
 
-INSERT INTO parkinglot (AvailableSpots, Price, SellerID) values(int, float, int);
+INSERT INTO parkinglot (ParkingLotName, ParkingSpotNum, Price, SellerID, SellerName, Reserved) values(varchar, int, float, int, varchar, bool);
