@@ -1,6 +1,6 @@
 use this when inserting into users
 
-INSERT INTO users (Name, ReserveTime, PlateNumber, LotName) values (varchar, int, varchar, varchar);
+INSERT INTO users (Name, PlateNumber, LotName) values (varchar, varchar, varchar);
 
 use this when inserting into parkinglot
 
